@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prince-0303
 - 👀 I’m interested in FullStack devolopment
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking forward to improve my fornt-end skills by doing sample projects ✌️
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking forward to improve my problem-solving skills by doing sample projects ✌️
 - 📫 Contact me on https://www.linkedin.com/in/princebiju
 
 
