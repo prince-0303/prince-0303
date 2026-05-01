@@ -1,5 +1,5 @@
 <h1 align="center">Prince Biju</h1>
-<h3 align="center">Full Stack Developer &nbsp;|&nbsp; Python · FastAPI · React · AI/RAG</h3>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; Python · FastAPI · Django · React </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/princebiju">
