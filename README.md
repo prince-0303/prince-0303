@@ -1,76 +1,112 @@
-<h1 align="center">Prince Biju</h1>
-<h3 align="center">Full Stack Developer &nbsp;|&nbsp; Python · FastAPI · Django · React </h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/princebiju">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince_Biju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<h1>PRINCE BIJU</h1>
+<p><b>Full Stack Engineer & AI Developer</b></p>
+<p><i>Architecting scalable Python backends, high-performance microservices, and RAG pipelines.</i></p>
 
 ---
 
-## About Me
+<h3>Connect with me</h3>
 
-I'm a **problem-driven developer** focused on building scalable, production-ready systems — from clean REST APIs to AI-powered backends.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princebiju/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://princebiju-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-- Architecting **FastAPI microservices** with clean separation of concerns and async support
-- Building **Retrieval-Augmented Generation (RAG)** pipelines for context-aware AI applications
-- Containerizing and deploying services with **Docker** and multi-container orchestration
-- Crafting responsive, component-driven UIs with **React & Tailwind CSS**
-- Designing robust backends with **Django, DRF**, and optimized **PostgreSQL** schemas
-
-> *Build with purpose. Iterate with precision. Ship with confidence.*
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+<h2>About Me</h2>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a **problem-driven developer** focused on building scalable, production-ready systems — from clean REST APIs to AI-powered backends. I value structure, asynchronous efficiency, and optimized architecture.
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF6F00?style=for-the-badge&logo=azurefunctions&logoColor=white)
+<br/>
 
-### AI & RAG
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6C3483?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-Embeddings-0052CC?style=for-the-badge&logo=pinecone&logoColor=white)
+**Python / FastAPI / Django** **Retrieval-Augmented Generation (RAG) Pipelines** **Docker Containerization & Microservices** **Responsive UIs with React & Tailwind**
 
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-## Current Focus
+<div align="center">  
+  
+<h2>Core Technologies</h2>
 
-- Designing **FastAPI microservice architectures** with async endpoints, dependency injection, and modular routing
-- Building **RAG pipelines** — document ingestion, vector search, and LLM-augmented response generation
-- Containerizing full-stack applications using **Docker Compose** for reproducible dev and prod environments
-- Implementing **authentication systems** with JWT, OAuth2, and role-based access control
-- Exploring **SQL optimization** and ORM performance tuning at scale
+<h3>Backend & APIs</h3>
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-000000?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
+
+<br/>
+
+<h3>AI & Engineering</h3>
+
+![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI_/_LLMS-000000?style=flat&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/VECTOR_DBS-000000?style=flat&logo=pinecone&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+
+<br/>
+
+<h3>Frontend Web</h3>
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+
+</div>
 
 ---
 
-## Connect
+<div align="center">
 
-- **LinkedIn:** [linkedin.com/in/princebiju](https://www.linkedin.com/in/princebiju)
-- Open to collaboration, internships, and impactful real-world projects
+<h2>Statistics</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=prince-0303&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
+</td>
+<td width="50%" align="center">
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=prince-0303&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
+</td>
+</tr>
+</table>
+
+<h3>Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prince-0303&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Prince%20Biju's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Code with purpose. Learn with curiosity. Build for impact.</i>
-</p>
+<div align="center">
+
+<h3>Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<sub>⭐️ From <a href="https://github.com/prince-0303">prince-0303</a> with ❤️</sub>
+
+</div>
