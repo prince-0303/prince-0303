@@ -101,7 +101,7 @@ I'm a **problem-driven developer** focused on building scalable, production-read
 
 <div align="center">
 
-<h3>Random Dev Quote</h3>
+<h3>Random Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
