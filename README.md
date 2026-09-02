@@ -87,7 +87,7 @@ I'm a **problem-driven developer** focused on building scalable, production-read
 </tr>
 </table>
 
-<h3>Contribution Graph</h3>
+<!-- <h3>Contribution Graph</h3>
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=prince-0303&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Prince%20Biju's%20Contribution%20Graph"
@@ -99,7 +99,7 @@ I'm a **problem-driven developer** focused on building scalable, production-read
 
 ---
 
-<div align="center">
+<div align="center"> -->
 
 <h3>Random Quote</h3>
 
